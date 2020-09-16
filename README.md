@@ -2,14 +2,14 @@
 
 Marvel Comic Collector 
 
-Overall application’s concept
+Overall applicationâ€™s concept
 
-A Marvel Comic collector’s resource site, providing latest comics for their favorite Marvel characters.  
+A Marvel Comic collectorâ€™s resource site, providing latest comics for their favorite Marvel characters.  
 
 It also provides purchase options for ebay and bookstores.  
 
 Motivation for development
-Leveraging Marvel’s powerful api allows fans to search and keep up to date on the most recent comics released.
+Leveraging Marvelâ€™s powerful api allows fans to search and keep up to date on the most recent comics released.
 
 Technologies used 
 
@@ -27,7 +27,4 @@ Technologies used
 	*ajax
 	*MD5 hashtag script
 
-This project is Deployed :
-
-https://secret-lake-84927.herokuapp.com/
 
